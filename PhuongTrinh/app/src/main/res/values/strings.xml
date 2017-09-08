@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PhuongTrinh</string>
     <string name="app_title">Giải phương trình</string>
+    <string name="varA">a</string>
+    <string name="varB">b</string>
+    <string name="varC">c</string>
+    <string name="equal_zezo">= 0</string>
 </resources>
